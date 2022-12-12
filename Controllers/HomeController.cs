@@ -8,5 +8,10 @@ namespace assignment2.Controllers
         {
             return View();
         }
+
+        public IActionResult Signup()
+        {
+            return View();
+        }
     }
 }
